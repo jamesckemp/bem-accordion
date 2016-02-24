@@ -1,6 +1,6 @@
 <?php $accordion_name = "faqs"; ?>
 
-<div class="accordion faqs" data-block="<?php echo $accordion_name; ?>">
+<div class="accordion <?php echo $accordion_name; ?>" data-block="<?php echo $accordion_name; ?>">
 
         <div class="<?php echo $accordion_name; ?>__item js-accordion--open">
             <div class="<?php echo $accordion_name; ?>__title js-accordion--open">
